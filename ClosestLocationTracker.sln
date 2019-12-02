@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestLocationTracker", "ClosestLocationTracker\ClosestLocationTracker.csproj", "{F7B60466-516B-4525-A310-9A7EA0FB0D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{169D213B-4BD2-4D4D-86F7-93032AEDA95F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B60466-516B-4525-A310-9A7EA0FB0D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B60466-516B-4525-A310-9A7EA0FB0D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B60466-516B-4525-A310-9A7EA0FB0D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B60466-516B-4525-A310-9A7EA0FB0D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169D213B-4BD2-4D4D-86F7-93032AEDA95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169D213B-4BD2-4D4D-86F7-93032AEDA95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169D213B-4BD2-4D4D-86F7-93032AEDA95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169D213B-4BD2-4D4D-86F7-93032AEDA95F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C09F469-B243-43F8-A58E-A6C0A42215AA}
+	EndGlobalSection
+EndGlobal
